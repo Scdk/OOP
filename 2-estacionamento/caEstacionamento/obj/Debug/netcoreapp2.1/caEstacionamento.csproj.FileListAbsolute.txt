@@ -1,0 +1,11 @@
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\bin\Debug\netcoreapp2.1\caEstacionamento.deps.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\bin\Debug\netcoreapp2.1\caEstacionamento.runtimeconfig.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\bin\Debug\netcoreapp2.1\caEstacionamento.runtimeconfig.dev.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\bin\Debug\netcoreapp2.1\caEstacionamento.dll
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\bin\Debug\netcoreapp2.1\caEstacionamento.pdb
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\obj\Debug\netcoreapp2.1\caEstacionamento.csprojAssemblyReference.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\obj\Debug\netcoreapp2.1\caEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\obj\Debug\netcoreapp2.1\caEstacionamento.AssemblyInfoInputs.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\obj\Debug\netcoreapp2.1\caEstacionamento.AssemblyInfo.cs
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\obj\Debug\netcoreapp2.1\caEstacionamento.dll
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\2-estacionamento\caEstacionamento\obj\Debug\netcoreapp2.1\caEstacionamento.pdb
