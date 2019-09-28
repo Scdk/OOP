@@ -1,0 +1,10 @@
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\bin\Debug\netcoreapp2.1\caVetor3D.deps.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\bin\Debug\netcoreapp2.1\caVetor3D.runtimeconfig.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\bin\Debug\netcoreapp2.1\caVetor3D.runtimeconfig.dev.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\bin\Debug\netcoreapp2.1\caVetor3D.dll
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\bin\Debug\netcoreapp2.1\caVetor3D.pdb
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\obj\Debug\netcoreapp2.1\caVetor3D.csprojAssemblyReference.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\obj\Debug\netcoreapp2.1\caVetor3D.AssemblyInfoInputs.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\obj\Debug\netcoreapp2.1\caVetor3D.AssemblyInfo.cs
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\obj\Debug\netcoreapp2.1\caVetor3D.dll
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-vetor3D\caVetor3D\obj\Debug\netcoreapp2.1\caVetor3D.pdb
