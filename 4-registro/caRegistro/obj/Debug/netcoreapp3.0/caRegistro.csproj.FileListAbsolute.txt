@@ -1,0 +1,11 @@
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\bin\Debug\netcoreapp3.0\caRegistro.exe
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\bin\Debug\netcoreapp3.0\caRegistro.deps.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\bin\Debug\netcoreapp3.0\caRegistro.runtimeconfig.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\bin\Debug\netcoreapp3.0\caRegistro.runtimeconfig.dev.json
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\bin\Debug\netcoreapp3.0\caRegistro.dll
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\bin\Debug\netcoreapp3.0\caRegistro.pdb
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\obj\Debug\netcoreapp3.0\caRegistro.csprojAssemblyReference.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\obj\Debug\netcoreapp3.0\caRegistro.AssemblyInfoInputs.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\obj\Debug\netcoreapp3.0\caRegistro.AssemblyInfo.cs
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\obj\Debug\netcoreapp3.0\caRegistro.dll
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\3-registro\caRegistro\obj\Debug\netcoreapp3.0\caRegistro.pdb
