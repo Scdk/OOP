@@ -1,0 +1,9 @@
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\bin\Debug\waTestadorDeExpressoes.exe.config
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\bin\Debug\waTestadorDeExpressoes.exe
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\bin\Debug\waTestadorDeExpressoes.pdb
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\obj\Debug\waTestadorDeExpressoes.csprojAssemblyReference.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\obj\Debug\waTestadorDeExpressoes.Form1.resources
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\obj\Debug\waTestadorDeExpressoes.Properties.Resources.resources
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\obj\Debug\waTestadorDeExpressoes.csproj.GenerateResource.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\obj\Debug\waTestadorDeExpressoes.exe
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\5-testador\waTestadorDeExpressoes\obj\Debug\waTestadorDeExpressoes.pdb
