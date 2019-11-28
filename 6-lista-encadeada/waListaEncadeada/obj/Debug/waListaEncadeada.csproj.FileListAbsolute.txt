@@ -1,0 +1,9 @@
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\bin\Debug\waListaEncadeada.exe.config
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\bin\Debug\waListaEncadeada.exe
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\bin\Debug\waListaEncadeada.pdb
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\obj\Debug\waListaEncadeada.csprojAssemblyReference.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\obj\Debug\waListaEncadeada.Form1.resources
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\obj\Debug\waListaEncadeada.Properties.Resources.resources
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\obj\Debug\waListaEncadeada.csproj.GenerateResource.cache
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\obj\Debug\waListaEncadeada.exe
+C:\Users\scdkb\Dropbox\UFU\4_periodo\POO\Labs\6-lista-encadeada\waListaEncadeada\obj\Debug\waListaEncadeada.pdb
